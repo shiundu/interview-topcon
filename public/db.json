@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Eff for F",
+        "price":  50,
+        "imgUrl": "https://via.placeholder.com/200"
+    },
+    {
+        "id": 2,
+        "name": "Gee for G",
+        "price": 23.10,
+        "imgUrl": "https://via.placeholder.com/200"
+    },
+    {
+        "id": 3,
+        "name": "Bee for Bee",
+        "price": 40,
+        "imgUrl": "https://via.placeholder.com/200"
+    },
+    {
+        "id": 4,
+        "name": "Ooh for O",
+        "price": 28,
+        "imgUrl": "https://via.placeholder.com/200"
+    },
+    {
+        "id": 5,
+        "name": "Kay for K",
+        "price": 5,
+        "imgUrl": "https://via.placeholder.com/200"
+    }
+]

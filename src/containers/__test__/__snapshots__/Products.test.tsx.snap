@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Products container test Products container renders correctly 1`] = `
+<div>
+  <div
+    aria-label="Button group with nested dropdown"
+    className="btn-group"
+    role="group"
+    style={
+      Object {
+        "marginLeft": "35px",
+      }
+    }
+  >
+    <button
+      className="btn btn-secondary"
+      type="button"
+    >
+      Sort by:
+    </button>
+    <div
+      className="btn-group dropdown"
+      role="group"
+    >
+      <button
+        className="btn btn-secondary dropdown-toggle"
+        id="btnGroupDrop1"
+        onClick={[Function]}
+        type="button"
+      >
+        Product Name
+        <i
+          className="fa fa-angle-up"
+        />
+      </button>
+    </div>
+    <div
+      className="btn-group dropdown"
+      role="group"
+    >
+      <button
+        className="btn btn-secondary dropdown-toggle"
+        id="btnGroupDrop2"
+        onClick={[Function]}
+        type="button"
+      >
+        Price
+      </button>
+      <button
+        className="btn btn-secondary"
+        id="btnGroupDrop2"
+        onClick={[Function]}
+        type="button"
+      >
+        Clear
+      </button>
+    </div>
+  </div>
+  <ul
+    className="card-deck"
+  />
+</div>
+`;

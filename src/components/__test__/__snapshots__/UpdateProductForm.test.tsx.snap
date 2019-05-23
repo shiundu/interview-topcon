@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UpdateProductForm component test UpdateProductForm component renders correctly 1`] = `
+<div>
+  <input
+    name="name"
+    onChange={[Function]}
+    placeholder="Product name"
+    type="text"
+    value=""
+  />
+  <input
+    name="price"
+    onChange={[Function]}
+    placeholder="Price"
+    type="string"
+    value=""
+  />
+  <input
+    name="imgUrl"
+    onChange={[Function]}
+    placeholder="Product image url"
+    type="url"
+    value=""
+  />
+  <div
+    className="card-body text-center"
+    style={
+      Object {
+        "padding": "15px",
+      }
+    }
+  >
+    <div
+      className="btn-group"
+      role="group"
+    >
+      <button
+        className="btn btn-warning btn-sm"
+        onClick={[Function]}
+      >
+        Update
+      </button>
+      <button
+        className="btn btn-danger btn-sm"
+        onClick={[Function]}
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+</div>
+`;
